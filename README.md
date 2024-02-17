@@ -15,7 +15,7 @@ Usage
 To view the website, simply open the index.html file in a web browser.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details 🤣🤣.
 
 Contact
 For inquiries, please contact Manoj H R at hrmanoj73@gmail.com.
